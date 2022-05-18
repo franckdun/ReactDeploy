@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react-deploy-001/static/css/main.febd6a13.css",
+    "main.js": "/react-deploy-001/static/js/main.76fe150f.js",
+    "static/js/787.89e1e5a3.chunk.js": "/react-deploy-001/static/js/787.89e1e5a3.chunk.js",
+    "static/media/antonio.gif": "/react-deploy-001/static/media/antonio.2e0a59bec01dfd82c3a5.gif",
+    "index.html": "/react-deploy-001/index.html",
+    "main.febd6a13.css.map": "/react-deploy-001/static/css/main.febd6a13.css.map",
+    "main.76fe150f.js.map": "/react-deploy-001/static/js/main.76fe150f.js.map",
+    "787.89e1e5a3.chunk.js.map": "/react-deploy-001/static/js/787.89e1e5a3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.febd6a13.css",
+    "static/js/main.76fe150f.js"
+  ]
+}
