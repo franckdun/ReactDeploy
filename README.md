@@ -3,7 +3,7 @@
 
 [Découvrir le tuto](https://youtu.be/ziPzOp6j0Oo).
 
-[![img_contact](./src/antonio.gif)](https://franckdun.github.io/react-deploy-001/)
+[![img_contact](./img/readme.PNG)](https://franckdun.github.io/react-deploy-001/)
 
 [Découvrir ici](https://franckdun.github.io/react-deploy-001/).
 
